@@ -11,3 +11,5 @@ Depois de um post no meu blog, falando um pouco sobre a minha relação com CSS 
 | Link | Tipo |
 | ---- | ---- |
 | [CSS EH FODA](https://marcelabomfim.github.io/blog/CSS-EH-FODA/) | post |
+| [Bandeira do Brasil com CSS](https://codepen.io/BritoMari/pen/rzeyZG) | codepen |
+| [Gato com CSS](https://codepen.io/BritoMari/pen/veeLJL) | codepen |
