@@ -21,6 +21,13 @@ Depois de um post no meu blog, falando um pouco sobre a minha relação com CSS 
 | [Bandeira do Brasil com CSS](https://codepen.io/BritoMari/pen/rzeyZG) | codepen |
 | [Gato com CSS](https://codepen.io/BritoMari/pen/veeLJL) | codepen |
 | [X-Men](https://codepen.io/rspilhaus/pen/LWZYOp) | codepen |
+| [Batman vs Twitter](https://codepen.io/BritoMari/full/MEzZWm) | codepen |
+
+### Novidades
+
+| Link | Tipo |
+| ---- | ---- |
+| [CSS Animation Weekly](https://cssanimation.rocks/weekly/) | news |
 
 ### Dicas
 
