@@ -18,6 +18,8 @@
 - [Vídeos](#vídeos)
 - [Livros](#livros)
 - [Tutoriais](#tutoriais)
+- [Desafios](#desafios)
+- [Jogos](#jogos)
 - [Pens e Inspirações](#pens-e-inspirações)
 - [Frameworks](#frameworks)
 - [Pré-processadores](#pré-processadores)
@@ -60,8 +62,29 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 
 > Aprenda e pratique CSS da melhor maneira
 
- - [Flexbox Froggy](http://flexboxfroggy.com/#pt-br) - Um jogo para aprender CSS Flexbox
- - [Grid Garden](http://cssgridgarden.com/#pt-br) - Um jogo para aorender CSS Grid
+Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
+
+<sub>[⇧ voltar](#indice)</sub>
+
+## Desafios
+
+> Aprenda e pratique CSS da melhor maneira
+
+ - [100dayscss](https://100dayscss.com/)
+ - [Daily CSS Images](http://dailycssimages.com/)
+ - [Enjoy CSS](http://enjoycss.com/)
+
+<sub>[⇧ voltar](#indice)</sub>
+
+## Jogos
+
+> Aprenda e pratique CSS da melhor maneira
+
+ - [CSS Dinner](https://flukeout.github.io/)
+ - [Flexbox Froggy](http://flexboxfroggy.com/)
+ - [Flexbox Defense](http://www.flexboxdefense.com/)
+ - [Grid Garden](http://cssgridgarden.com/)
+ - [Flexplorer](http://bennettfeely.com/flexplorer/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
