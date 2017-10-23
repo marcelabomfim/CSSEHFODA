@@ -42,6 +42,8 @@
 
 ## Vídeos
 
+- [Raphael Fabeni - Os Paranauês do CSS3](https://www.youtube.com/watch?v=udV_GD5QNsI)
+
 > Vídeos tutoriais, talks, entrevistas ...
 
 #### 2017
@@ -71,7 +73,9 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 
 > Aprenda e pratique CSS da melhor maneira
 
-Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
+- [Flexbox do jeito certo](https://gustavoquinalha.github.io/flexbox/)
+- [Um mundo de possibilidades com flexbox](https://gustavoquinalha.github.io/um-mundo-de-possibilidades-com-flexbox/)
+- [O maravilhoso mundo do CSS](https://gustavoquinalha.github.io/o-maravilhoso-mundo-do-css/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -137,6 +141,22 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
 
  - [BEM](https://en.bem.info/)
  - [ITCSS](https://itcss.io/)
+ - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+
+<sub>[⇧ voltar](#indice)</sub>
+
+
+## Guidelines
+
+> Como seguir um padrão no CSS ?
+
+ - [Airbnb](https://github.com/airbnb/css)
+ - [Cssguidelines](https://cssguidelin.es/)
+ - [CSS-TRICKS](https://css-tricks.com/css-style-guides/)
+ - [Wordpress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
+ - [Google](https://google.github.io/styleguide/htmlcssguide.html)
+ - [Sass Guideline](https://sass-guidelin.es/pt/)
+ - [Codeguide](http://codeguide.co/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -152,6 +172,6 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
 
 ## Colaboradores
 
-[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos) e *você!*
+[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha) e *você!*
 
 **Sinta-se livre para participar! Abra uma issue ou envie um Pull Request.**
