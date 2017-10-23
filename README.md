@@ -114,6 +114,7 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
  - [Sass](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
  - [LESS](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
  - [PostCSS](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+ - [Stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs.
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -138,6 +139,6 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
 
 ## Colaboradores
 
-[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari) e *você!*
+[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene) e *você!*
 
 **Sinta-se livre para participar! Abra uma issue ou envie um Pull Request.**
