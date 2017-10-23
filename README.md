@@ -96,7 +96,7 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
  - [Gato com CSS](https://codepen.io/BritoMari/pen/veeLJL) por [Mariana Brito](https://twitter.com/briitomari)
  - [X-Men](https://codepen.io/rspilhaus/pen/LWZYOp) por [Ryan Spilhaus](https://codepen.io/rspilhaus/)
  - [Batman vs Twitter](https://codepen.io/BritoMari/full/MEzZWm) por [Mariana Brito](https://twitter.com/briitomari)
- - [Pure CSS Animated Eric Cartman](http://alinebastos.github.io/css-eric-cartman/) por [Aline Bastos](https://twitter.com/Aline Bastos)
+ - [Pure CSS Animated Eric Cartman](http://alinebastos.github.io/css-eric-cartman/) por [Aline Bastos](https://twitter.com/AlineBastos)
 
 ## Frameworks
 
