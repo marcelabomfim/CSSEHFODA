@@ -106,6 +106,7 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
  - [Zurb Foundation](https://foundation.zurb.com/) - The most advanced responsive front-end framework in the world.
  - [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox.
  - [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
+ - [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
 
 <sub>[⇧ voltar](#indice)</sub>
 
