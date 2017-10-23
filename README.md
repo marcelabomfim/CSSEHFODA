@@ -140,6 +140,6 @@ Nada por aqui ainda, conhece um bom tutorial? Contribua para a lista.
 
 ## Colaboradores
 
-[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari) e *você!*
+[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos) e *você!*
 
 **Sinta-se livre para participar! Abra uma issue ou envie um Pull Request.**
