@@ -34,6 +34,10 @@
 
 > Artigos sobre CSS que valem a pena a leitura
 
+#### 2011
+
+ - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048) por [Jeffrey Way](https://twitter.com/jeffrey_way) - traduzido por [Erick Patrick](https://twitter.com/erickpatrick)
+
 #### 2017
 
  - [CSS EH FODA](https://marcelabomfim.github.io/blog/CSS-EH-FODA/) por [Marcela Bomfim](https://twitter.com/cecelabomfim)
