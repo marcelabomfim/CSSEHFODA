@@ -50,6 +50,15 @@
 
 <sub>[⇧ voltar](#indice)</sub>
 
+## Podcasts
+> Podcasts, episódios específicos, entrevistas ...
+
+#### 2016
+
+- [CSS: Cansei de Ser Simples – Hipsters #09](https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/?submit=Ver) - duração `49m` por - [Hipsters ponto Tech](https://hipsters.tech/), com [Diego Eis](https://twitter.com/diegoeis) e [Sergio Lopes](https://twitter.com/sergio_caelum).
+
+<sub>[⇧ voltar](#indice)</sub>
+
 ## Livros
 
 > Pra quem gosta de ler sobre assuntos técnicos também
