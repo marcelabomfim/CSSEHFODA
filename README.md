@@ -141,6 +141,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 
  - [BEM](https://en.bem.info/)
  - [ITCSS](https://itcss.io/)
+ - [RSCSS](http://rscss.io/) - [(ptbr)](https://silvamateus.gitbooks.io/rscss/content/)
  - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
 
 <sub>[⇧ voltar](#indice)</sub>
