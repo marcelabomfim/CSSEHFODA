@@ -61,6 +61,10 @@
 ## Podcasts
 > Podcasts, episódios específicos, entrevistas ...
 
+#### 2014
+
+ - [Hack ‘n’ Cast – HTML & CSS](https://imasters.com.br/front-end/html/hack-n-cast-html-css/?trace=1519021197&source=single) - duração `1h03m07s`
+
 #### 2016
 
 - [CSS: Cansei de Ser Simples – Hipsters #09](https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/?submit=Ver) - duração `49m` por - [Hipsters ponto Tech](https://hipsters.tech/), com [Diego Eis](https://twitter.com/diegoeis) e [Sergio Lopes](https://twitter.com/sergio_caelum).
