@@ -86,6 +86,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 - [Flexbox do jeito certo](https://gustavoquinalha.github.io/flexbox/)
 - [Um mundo de possibilidades com flexbox](https://gustavoquinalha.github.io/um-mundo-de-possibilidades-com-flexbox/)
 - [O maravilhoso mundo do CSS](https://gustavoquinalha.github.io/o-maravilhoso-mundo-do-css/)
+- [As funcionalidades CSS para shapes, clipping e masking](http://maujor.com/tutorial/css-shapes-clipping-and-masking.php)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -183,6 +184,6 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 
 ## Colaboradores
 
-[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha) e *você!*
+[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha), [@tjoaquini](https://github.com/tjoaquini) e *você!*
 
 **Sinta-se livre para participar! Abra uma issue ou envie um Pull Request.**
