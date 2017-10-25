@@ -48,6 +48,7 @@
 #### 2017
 
  - [CSS EH FODA](https://marcelabomfim.github.io/blog/CSS-EH-FODA/) por [Marcela Bomfim](https://twitter.com/cecelabomfim)
+ - [How to create fancy revealing animations with these simple CSS tricks - Hackernoon](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a) - [pen inspirado no artigo](https://codepen.io/mibsbalsante/pen/VzgJjJ)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -94,6 +95,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 - [Um mundo de possibilidades com flexbox](https://gustavoquinalha.github.io/um-mundo-de-possibilidades-com-flexbox/)
 - [O maravilhoso mundo do CSS](https://gustavoquinalha.github.io/o-maravilhoso-mundo-do-css/)
 - [As funcionalidades CSS para shapes, clipping e masking](http://maujor.com/tutorial/css-shapes-clipping-and-masking.php)
+- [Mastering the :nth-child](http://nthmaster.com/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -139,6 +141,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
  - [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox.
  - [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
  - [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+ - [Semantic UI](https://semantic-ui.com/) - A UI component framework based around useful principles from natural language. 
 
 <sub>[⇧ voltar](#indice)</sub>
 
