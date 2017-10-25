@@ -25,6 +25,7 @@
 - [Pré-processadores](#pré-processadores)
 - [Metodologias e Arquiteturas](#metodologias-e-arquiteturas)
 - [Novidades](#novidades)
+- [Ferramentas](#ferramentas)
 
 <!-- tocstop -->
 
@@ -192,10 +193,18 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 
 <sub>[⇧ voltar](#indice)</sub>
 
+## Ferramentas
+
+> Conteúdo que auxilia a criação dos seus estilos
+
+ - [Animista](http://animista.net) - Animações sob demanda
+
+<sub>[⇧ voltar](#indice)</sub>
+
 ---
 
 ## Colaboradores
 
-[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha), [@tjoaquini](https://github.com/tjoaquini), [@G4brym](https://github.com/g4brym) e *você!*
+[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha), [@tjoaquini](https://github.com/tjoaquini), [@G4brym](https://github.com/g4brym), [@anderson-sousa](https://github.com/anderson-sousa) e *você!*
 
 **Sinta-se livre para participar! Abra uma issue ou envie um Pull Request.**
