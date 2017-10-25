@@ -42,6 +42,8 @@
 
 - [Alguns seletores css importantes para aprender](https://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/) por [Willian Justen](https://github.com/willianjusten)
 
+#### 2016
+- [Falando sobre RSCSS](https://willianjusten.com.br/falando-sobre-rscss/) por [Willian Justen](https://github.com/willianjusten)
 
 #### 2017
 
