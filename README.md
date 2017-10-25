@@ -41,6 +41,7 @@
 #### 2017
 
  - [CSS EH FODA](https://marcelabomfim.github.io/blog/CSS-EH-FODA/) por [Marcela Bomfim](https://twitter.com/cecelabomfim)
+ - [How to create fancy revealing animations with these simple CSS tricks - Hackernoon](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a) - [pen inspirado no artigo](https://codepen.io/mibsbalsante/pen/VzgJjJ)
 
 <sub>[⇧ voltar](#indice)</sub>
 
