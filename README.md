@@ -34,21 +34,23 @@
 
 > Artigos sobre CSS que valem a pena a leitura
 
-#### 2011
+#### 2017
 
- - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048) por [Jeffrey Way](https://twitter.com/jeffrey_way) - traduzido por [Erick Patrick](https://twitter.com/erickpatrick)
+ - [CSS EH FODA](https://marcelabomfim.github.io/blog/CSS-EH-FODA/) por [Marcela Bomfim](https://twitter.com/cecelabomfim)
+ - [How to create fancy revealing animations with these simple CSS tricks - Hackernoon](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a) - [pen inspirado no artigo](https://codepen.io/mibsbalsante/pen/VzgJjJ)
+ - [15 Useful CSS Tricks You Might Have Overlooked](http://www.hongkiat.com/blog/useful-css-tricks-you-might-have-overlooked/) por [Preethi Ranjit](http://www.hongkiat.com/blog/author/preethi/)
+
+#### 2016
+
+- [Falando sobre RSCSS](https://willianjusten.com.br/falando-sobre-rscss/) por [Willian Justen](https://github.com/willianjusten)
 
 #### 2015
 
 - [Alguns seletores css importantes para aprender](https://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/) por [Willian Justen](https://github.com/willianjusten)
 
-#### 2016
-- [Falando sobre RSCSS](https://willianjusten.com.br/falando-sobre-rscss/) por [Willian Justen](https://github.com/willianjusten)
+#### 2011
 
-#### 2017
-
- - [CSS EH FODA](https://marcelabomfim.github.io/blog/CSS-EH-FODA/) por [Marcela Bomfim](https://twitter.com/cecelabomfim)
- - [How to create fancy revealing animations with these simple CSS tricks - Hackernoon](https://hackernoon.com/how-to-create-fancy-revealing-animations-with-these-simple-css-tricks-5b34614ae69a) - [pen inspirado no artigo](https://codepen.io/mibsbalsante/pen/VzgJjJ)
+ - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048) por [Jeffrey Way](https://twitter.com/jeffrey_way) - traduzido por [Erick Patrick](https://twitter.com/erickpatrick)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -56,26 +58,26 @@
 
 > Vídeos tutoriais, talks, entrevistas ...
 
-#### 2014
-
-- [Raphael Fabeni - Os Paranauês do CSS3](https://www.youtube.com/watch?v=udV_GD5QNsI)
-
 #### 2017
 
  - [Hangout: Acelerando o tempo com CSS Grid Layout](https://www.youtube.com/watch?v=37DyAAdRiPs) duração: `1h07m05s` por [Simone Amorim](https://twitter.com/samorim02)
+
+#### 2014
+
+- [Raphael Fabeni - Os Paranauês do CSS3](https://www.youtube.com/watch?v=udV_GD5QNsI)
 
 <sub>[⇧ voltar](#indice)</sub>
 
 ## Podcasts
 > Podcasts, episódios específicos, entrevistas ...
 
-#### 2014
-
- - [Hack ‘n’ Cast – HTML & CSS](https://imasters.com.br/front-end/html/hack-n-cast-html-css/?trace=1519021197&source=single) - duração `1h03m07s`
-
 #### 2016
 
 - [CSS: Cansei de Ser Simples – Hipsters #09](https://hipsters.tech/css-cansei-de-ser-simples-hipsters-09/?submit=Ver) - duração `49m` por - [Hipsters ponto Tech](https://hipsters.tech/), com [Diego Eis](https://twitter.com/diegoeis) e [Sergio Lopes](https://twitter.com/sergio_caelum).
+
+#### 2014
+
+ - [Hack ‘n’ Cast – HTML & CSS](https://imasters.com.br/front-end/html/hack-n-cast-html-css/?trace=1519021197&source=single) - duração `1h03m07s`
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -194,6 +196,6 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 
 ## Colaboradores
 
-[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha), [@tjoaquini](https://github.com/tjoaquini) e *você!*
+[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha), [@tjoaquini](https://github.com/tjoaquini), [@G4brym](https://github.com/g4brym) e *você!*
 
 **Sinta-se livre para participar! Abra uma issue ou envie um Pull Request.**
