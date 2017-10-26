@@ -98,6 +98,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 - [O maravilhoso mundo do CSS](https://gustavoquinalha.github.io/o-maravilhoso-mundo-do-css/)
 - [As funcionalidades CSS para shapes, clipping e masking](http://maujor.com/tutorial/css-shapes-clipping-and-masking.php)
 - [Mastering the :nth-child](http://nthmaster.com/)
+- [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
