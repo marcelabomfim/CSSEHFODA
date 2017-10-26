@@ -67,6 +67,11 @@
 
 - [Raphael Fabeni - Os Paranauês do CSS3](https://www.youtube.com/watch?v=udV_GD5QNsI)
 
+
+#### 2012
+
+- [Bernard De Luna - Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
+
 <sub>[⇧ voltar](#indice)</sub>
 
 ## Podcasts
