@@ -26,6 +26,7 @@
 - [Metodologias e Arquiteturas](#metodologias-e-arquiteturas)
 - [Novidades](#novidades)
 - [Ferramentas](#ferramentas)
+- [Bibliotecas](#bibliotecas)
 
 <!-- tocstop -->
 
