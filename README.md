@@ -203,6 +203,8 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
  
 ## Bibliotecas
 
+> Libs úteis para facilitar a sua vida.
+
  - [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
  - [Compass](http://compass-style.org/) - Compass is an open-source CSS Authoring Framework.
  - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
