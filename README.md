@@ -204,6 +204,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 > Conteúdo que auxilia a criação dos seus estilos
 
  - [Animista](http://animista.net) - Animações sob demanda
+ - [Clippy](https://bennettfeely.com/clippy/) - Gere valores para serem usados na propriedade clip-path
 
 <sub>[⇧ voltar](#indice)</sub>
 
