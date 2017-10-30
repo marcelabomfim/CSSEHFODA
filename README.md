@@ -91,7 +91,14 @@
 
 > Pra quem gosta de ler sobre assuntos técnicos também
 
-Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
+- [CSS Guidelines](https://cssguidelin.es/)
+- [Transforms In CSS: Revamp The Way You Design](http://www.oreilly.com/free/transforms-in-css.csp)
+- [Enduring CSS](http://ecss.io/)
+- [CSS3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/css3)
+- [Learn CSS Layout. The Pedantic Way](http://book.mixu.net/css/index.html)
+- [The Magic Of CSS](http://adamschwartz.co/magic-of-css/)
+- [A Pocket Guide To CSS Animations](http://cssanimationspocketguide.com/)
+- [Scalable And Modular Architecture For CSS](https://smacss.com/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
