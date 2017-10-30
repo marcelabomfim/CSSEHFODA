@@ -62,8 +62,8 @@
 #### 2017
 
  - [Hangout: Acelerando o tempo com CSS Grid Layout](https://www.youtube.com/watch?v=37DyAAdRiPs) duração: `1h07m05s` por [Simone Amorim](https://twitter.com/samorim02)
- - [Raphael Fabeni - CSS Tips](https://youtu.be/Y7NvSAhbXlc)
- - [Diogo Moretti - CSS {Grid} Layout: It's evolution baby](https://youtu.be/94aYg5D8N0s)
+ - [Raphael Fabeni - CSS Tips](https://youtu.be/Y7NvSAhbXlc) duração: `48m24s`
+ - [Diogo Moretti - CSS {Grid} Layout: It's evolution baby](https://youtu.be/94aYg5D8N0s) duração: `40m24s`
 #### 2014
 
 - [Raphael Fabeni - Os Paranauês do CSS3](https://www.youtube.com/watch?v=udV_GD5QNsI)
