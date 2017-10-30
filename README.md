@@ -135,7 +135,9 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
 > Quando você olha e pensa: "Como essa pessoa fez isso?"
 
  - [Bandeira do Brasil com CSS](https://codepen.io/BritoMari/pen/rzeyZG) por [Mariana Brito](https://twitter.com/briitomari)
+ - [Bart Simpson in pure css](https://codepen.io/flopreynat/pen/ntmsv) por [Flo Preynat](https://codepen.io/flopreynat/)
  - [Gato com CSS](https://codepen.io/BritoMari/pen/veeLJL) por [Mariana Brito](https://twitter.com/briitomari)
+ - [Cat Swinging on String](https://codepen.io/davidkpiano/pen/Xempjq) por [David Khourshid](https://codepen.io/davidkpiano/)
  - [X-Men](https://codepen.io/rspilhaus/pen/LWZYOp) por [Ryan Spilhaus](https://codepen.io/rspilhaus/)
  - [Batman vs Twitter](https://codepen.io/BritoMari/full/MEzZWm) por [Mariana Brito](https://twitter.com/briitomari)
  - [Pure CSS Animated Eric Cartman](http://alinebastos.github.io/css-eric-cartman/) por [Aline Bastos](https://twitter.com/AlineBastos)
@@ -150,7 +152,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
  - [Bulma](https://bulma.io/) - A modern CSS framework based on Flexbox.
  - [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
  - [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
- - [Semantic UI](https://semantic-ui.com/) - A UI component framework based around useful principles from natural language. 
+ - [Semantic UI](https://semantic-ui.com/) - A UI component framework based around useful principles from natural language.
 
 <sub>[⇧ voltar](#indice)</sub>
 
