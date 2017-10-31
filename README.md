@@ -150,6 +150,7 @@
  - [Batman vs Twitter](https://codepen.io/BritoMari/full/MEzZWm) por [Mariana Brito](https://twitter.com/briitomari)
  - [Pure CSS Animated Eric Cartman](http://alinebastos.github.io/css-eric-cartman/) por [Aline Bastos](https://twitter.com/AlineBastos)
  - [StarWars BB-8 CSS Illustration + Animation](https://codepen.io/devtips/pen/xZdJaE/) por [Dev Tips](https://codepen.io/devtips/)
+ - [Duck Hunt](http://zofiakorcz.pl/DuckHunt/) por [Zosia Korcz](http://zofiakorcz.pl/case-study-duck-hunt)
 
 ## Frameworks
 
