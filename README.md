@@ -49,6 +49,8 @@
 
 - [Alguns seletores css importantes para aprender](https://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/) por [Willian Justen](https://github.com/willianjusten)
 
+- [8 Rules to Improve Your CSS](https://www.netguru.co/blog/8-rules-improve-css) por [Mateusz Czajka](https://github.com/czajkovsky)
+
 #### 2011
 
  - [Os 30 Seletores CSS Que Você Deve Memorizar](https://code.tutsplus.com/pt/tutorials/the-30-css-selectors-you-must-memorize--net-16048) por [Jeffrey Way](https://twitter.com/jeffrey_way) - traduzido por [Erick Patrick](https://twitter.com/erickpatrick)
