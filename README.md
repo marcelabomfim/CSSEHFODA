@@ -138,6 +138,7 @@ Nada por aqui ainda, conhece um bom livro? Contribua para a lista.
  - [Bart Simpson in pure css](https://codepen.io/flopreynat/pen/ntmsv) por [Flo Preynat](https://codepen.io/flopreynat/)
  - [Gato com CSS](https://codepen.io/BritoMari/pen/veeLJL) por [Mariana Brito](https://twitter.com/briitomari)
  - [Cat Swinging on String](https://codepen.io/davidkpiano/pen/Xempjq) por [David Khourshid](https://codepen.io/davidkpiano/)
+ - [Meshi the CSS Dog](https://codepen.io/davidkpiano/pen/kkpGWj) por [David Khourshid](https://codepen.io/davidkpiano/)
  - [X-Men](https://codepen.io/rspilhaus/pen/LWZYOp) por [Ryan Spilhaus](https://codepen.io/rspilhaus/)
  - [Batman vs Twitter](https://codepen.io/BritoMari/full/MEzZWm) por [Mariana Brito](https://twitter.com/briitomari)
  - [Pure CSS Animated Eric Cartman](http://alinebastos.github.io/css-eric-cartman/) por [Aline Bastos](https://twitter.com/AlineBastos)
