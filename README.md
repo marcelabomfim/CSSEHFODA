@@ -115,6 +115,7 @@
 - [As funcionalidades CSS para shapes, clipping e masking](http://maujor.com/tutorial/css-shapes-clipping-and-masking.php)
 - [Mastering the :nth-child](http://nthmaster.com/)
 - [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
+- [O fodástico :not()](https://www.felipefialho.com/blog/2016/css-o-fodastico-not)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -187,6 +188,7 @@
  - [ITCSS](https://itcss.io/)
  - [RSCSS](http://rscss.io/) - [(ptbr)](https://silvamateus.gitbooks.io/rscss/content/)
  - [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+ - [CSS Sustentável](http://csssustentavel.com.br)
 
 <sub>[⇧ voltar](#indice)</sub>
 
