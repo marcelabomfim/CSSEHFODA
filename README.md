@@ -26,6 +26,7 @@
 - [Metodologias e Arquiteturas](#metodologias-e-arquiteturas)
 - [Novidades](#novidades)
 - [Ferramentas](#ferramentas)
+- [Bibliotecas](#bibliotecas)
 
 <!-- tocstop -->
 
@@ -70,11 +71,6 @@
 
 - [Raphael Fabeni - Os Paranauês do CSS3](https://www.youtube.com/watch?v=udV_GD5QNsI)
 
-
-#### 2012
-
-- [Bernard De Luna - Performance em CSS](https://www.youtube.com/watch?v=m1iV2C44Duc)
-
 <sub>[⇧ voltar](#indice)</sub>
 
 ## Podcasts
@@ -114,7 +110,6 @@
 - [O maravilhoso mundo do CSS](https://gustavoquinalha.github.io/o-maravilhoso-mundo-do-css/)
 - [As funcionalidades CSS para shapes, clipping e masking](http://maujor.com/tutorial/css-shapes-clipping-and-masking.php)
 - [Mastering the :nth-child](http://nthmaster.com/)
-- [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
 
 <sub>[⇧ voltar](#indice)</sub>
 
@@ -221,11 +216,27 @@
  - [Clippy](https://bennettfeely.com/clippy/) - Gere valores para serem usados na propriedade clip-path
 
 <sub>[⇧ voltar](#indice)</sub>
+ 
+## Bibliotecas
+
+> Libs úteis para facilitar a sua vida.
+
+ - [Animate.css](https://daneden.github.io/animate.css/) - Just-add-water CSS animations
+ - [Compass](http://compass-style.org/) - Compass is an open-source CSS Authoring Framework.
+ - [Bourbon](http://bourbon.io/) - A simple and lightweight mixin library for Sass.
+ - [Neat](https://neat.bourbon.io/) - A lightweight and flexible Sass grid
+ - [Bitters](http://bitters.bourbon.io/) - Scaffold styles, variables and structure for [Bourbon](http://bourbon.io/) projects.
+ - [Refills](http://refills.bourbon.io/) - Components and patterns built with [Bourbon](http://bourbon.io/) and [Neat](https://neat.bourbon.io/).
+  - [Hover.css](http://ianlunn.github.io/Hover/) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+  - [Magic Animations](https://www.minimamente.com/example/magic_animations/) - CSS3 Animations with special effects
+  - [Effeckt.css](http://h5bp.github.io/Effeckt.css/) - A Performant Transitions and Animations Library
+
+<sub>[⇧ voltar](#indice)</sub>
 
 ---
 
 ## Colaboradores
 
-[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha), [@tjoaquini](https://github.com/tjoaquini), [@G4brym](https://github.com/g4brym), [@anderson-sousa](https://github.com/anderson-sousa) e *você!*
+[@marcelabomfim](https://github.com/marcelabomfim), [@BritoMari](https://github.com/BritoMari), [@safirelauene](https://github.com/safirelauene), [@alinebastos](https://github.com/alinebastos), [@gustavoquinalha](https://github.com/gustavoquinalha), [@tjoaquini](https://github.com/tjoaquini), [@G4brym](https://github.com/g4brym), [@nandomoreirame](https://github.com/nandomoreirame), [@anderson-sousa](https://github.com/anderson-sousa) e *você!*
 
 **Sinta-se livre para participar! Abra uma issue ou envie um Pull Request.**
