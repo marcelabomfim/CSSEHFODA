@@ -124,7 +124,6 @@
 > Aprenda e pratique CSS da melhor maneira
 
  - [100dayscss](https://100dayscss.com/)
- - [Daily CSS Images](http://dailycssimages.com/)
  - [Enjoy CSS](http://enjoycss.com/)
 
 <sub>[⇧ voltar](#indice)</sub>
